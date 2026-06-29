@@ -5,6 +5,13 @@
     "url": "https://harshulmoon.github.io/fnae.html",
     "proxy": true,
     "new": true
+  }, 
+  {
+    "name": "Cat Sudoku (Meowdoku Web)",
+    "image": "https://deskcade.online/guidephotos/meowdoku-cover.png",
+    "url": "https://deskcade.online/games/puzzle/cat-sudoku-alternative.html",
+    "proxy": false,
+    "new": true
   },
   {
     "name": "Bowmasters",
